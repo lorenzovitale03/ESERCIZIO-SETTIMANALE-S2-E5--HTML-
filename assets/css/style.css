@@ -1,0 +1,112 @@
+/* Your styles here */
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #E9EDEE;
+}
+
+/*HEADER*/
+
+/*scatola header*/
+
+#headerBox {
+    background-color: #222F3F;
+    padding: 15px;
+}
+
+/*nav*/
+
+
+/*scatola heading*/
+
+#headingBox {
+    display: inline;
+    margin: 8px;
+    font-size: 1.3em;
+    color: white;
+}
+
+/*scatola nav*/
+
+#navBox {
+    background-color: #364759;
+    padding: 11px;
+}
+
+/* Main*/
+
+
+/*scatola del paragrafo gift*/
+
+#giftBox {
+    background-color: #F56600;
+    text-align: center;
+    padding: 1px;
+    margin: 40px;
+    color: white;
+    font-size: 20px;
+}
+
+/*scatola per immagine Holiday*/
+
+
+#holidayBox {
+    text-align: center;
+    background-image: url(../images/bg-image.png);
+    color: white;
+    margin: 40px;
+    padding: 50px;
+}
+
+/*scatola principale relativa prodotti*/
+
+#articleBox {
+    margin-top: 2%;
+    margin-right: 2%;
+    margin-left: 2%;
+    padding: 260px;
+    border: 1px solid black;
+    background-color: #FFFFFF;
+}
+
+/* immagini relative main dopo sezione articoli*/
+
+#newImages img {
+    width: 100%;
+}
+
+#newImages {
+    padding: 40px;
+    text-align: center;
+}
+
+/*sottotitoli immagini*/
+
+#subImages {
+    display: inline;
+    color: #196C7C;
+}
+
+/*fine main con bottone ritorno sopra*/
+
+#endMain {
+    background-color: #364759;
+    padding: 20px;
+    text-align: center;
+}
+
+#colorAncor {
+    color: #F4FEFF;
+    font-size: 20px;
+}
+
+/*FOOTER*/
+
+/*scatola  del footer*/
+
+#footerBox {
+    background-color: #222F3F;
+    padding: 120px;
+    text-align: center;
+}
